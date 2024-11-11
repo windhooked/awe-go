@@ -6,7 +6,7 @@ A curated list of awesome Go frameworks, libraries and software.
 
 
 - [Awesome Go](#awesome-go)
-    -[Language] (#language)
+    - [Language](#language)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Blockchain](#blockchain)
