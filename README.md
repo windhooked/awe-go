@@ -161,7 +161,8 @@ A curated list of awesome Go frameworks, libraries and software.
 
 ## Language
 
-* Language Stuff *
+* Language Bits *
+  
   [Gollvm](https://go.googlesource.com/gollvm/) - LLVM-based Go compiler. It incorporates “gofrontend” (a Go language front end written in C++ and shared with GCCGO), a bridge component (which translates from gofrontend IR to LLVM IR), and a driver that sends the resulting IR through the LLVM back end.
 
 
